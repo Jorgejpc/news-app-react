@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import NewsList from './components/NewsList';
 import NewsNav from './components/NewsNav';
-import apiKey from './components/NavNews/config';
+import apiKey from './apiKey';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
